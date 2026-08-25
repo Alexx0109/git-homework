@@ -1,0 +1,36 @@
+{
+  "info": {
+    "_postman_id": "b4b63a14-968f-4351-a20b-8b4c737e6fc2",
+    "name": "My Collection 01",
+    "description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "56568169",
+    "_collection_link": "https://go.postman.co/collection/56568169-b4b63a14-968f-4351-a20b-8b4c737e6fc2?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New Request03",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "New Request01",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "New Request02",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
